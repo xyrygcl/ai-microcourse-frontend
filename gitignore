@@ -1,0 +1,23 @@
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# 临时文件夹
+AppData/
+*.tmp
+*.log
+*.bak
+
+# Node / npm
+node_modules/
+
+# Visual Studio / IDE
+.vscode/
+*.suo
+*.user
+*.cache
+
+# 打包输出
+dist/
+build/

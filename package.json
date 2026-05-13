@@ -1,0 +1,16 @@
+{
+  "name": "ai-microcourse-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "axios": "^1.6.0",
+    "bootstrap": "^5.3.2"
+  },
+  "devDependencies": {
+    "vite": "^4.5.1"
+  }
+}
